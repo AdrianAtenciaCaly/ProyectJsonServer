@@ -1,0 +1,53 @@
+{
+    "profesores": [
+        {
+            "nombre": "Adrian",
+            "apellido": "Atencia",
+            "materias": [
+                {
+                    "nombre": "Matemáticas"
+                },
+                {
+                    "nombre": "Física"
+                },
+                {
+                    "nombre": "Java"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Carlos",
+            "apellido": "González",
+            "promedios": 8.5
+        },
+        {
+            "nombre": "María",
+            "apellido": "Pérez",
+            "promedios": 9.2
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "Álgebra",
+            "duración": "3 meses",
+            "dificultad": "Media"
+        },
+        {
+            "nombre": "Programación en Java",
+            "duración": "6 meses",
+            "dificultad": "Alta"
+        },
+        {
+            "nombre": "Física Cuántica",
+            "duración": "4 meses",
+            "dificultad": "Alta"
+        },
+        {
+            "nombre": "Matemáticas Avanzadas",
+            "duración": "5 meses",
+            "dificultad": "Alta"
+        }
+    ]
+}
